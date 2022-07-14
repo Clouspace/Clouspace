@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clouspace
 - 👀 I’m interested in Data Analyst and UI/UX Design
-- 🌱 I’m currently learning Python (Backend)
+- 🌱 I’m currently dart using flutter framework. 
 - 💞️ I’m looking to collaborate on any Interface design project and Data Analysis project
 - 📫 How to reach me ... oluseunsokunbi@gmail.com 
 
